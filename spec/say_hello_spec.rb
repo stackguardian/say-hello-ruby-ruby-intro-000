@@ -1,5 +1,4 @@
 require_relative './spec_helper'
-def say_hello.rb
 
 describe "say_hello" do 
   
